@@ -15,3 +15,20 @@ Quickstart: Create a Linux VM
 
 Quickstart for Bash in Azure Cloud Shell
 * https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+* #
+**GUIDES ON COMPLETING LAB 1
+**
+1.Launch Azure Cloud Shell, which is a browser-based shell experience to manage and develop Azure resources .
+
+##
+How to launch Azure Cloud Shell
+1. Launch the cloud shell(Azure CLI) from the top navigation of the Azure Portal(Click on the symbol that looks like greater than symbol with an underscore **>_**)
+
+2. Select a subscription plan to create storage account and microsoft Azure file shares 
+3. create storage
+4. select your bash enviroment
+
+#
+2.Create a resource group
+##
+How to Create a Resource Group
